@@ -1,0 +1,12 @@
+.banner {
+    background-image: url('src/assets/images/background2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: fit-content;
+}
+.title {
+    font-family: cursive
+}
+.subtitle {
+    font-family: cursive
+}

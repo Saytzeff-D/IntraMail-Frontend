@@ -6,10 +6,12 @@ import { AppComponent } from './app.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { LandingPageComponent } from './landing-page/landing-page.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LandingPageComponent
   ],
   imports: [
     BrowserModule,
