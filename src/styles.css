@@ -2,3 +2,17 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.bg-mail{
+    background-color: #4DBA87;
+}
+.btn-mail{
+  background-color: #4DBA87;
+  border-color: #4DBA87;
+}
+.text-mail {
+    color: #4DBA87;
+}
+.text-mail-complement {
+    color: #000000;
+}
